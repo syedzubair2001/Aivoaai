@@ -66,3 +66,8 @@ npm run dev
 Visit `http://localhost:5173` to view the app!
 
 *(Note: Use `admin@lifecrm.com` password `admin123` to log into the Admin dashboard, or create a new user account via the Sign Up tab).*
+
+
+
+GROQ_API_KEY=your_groq_api_key_here
+DATABASE_URL=your_db_url
